@@ -1,0 +1,52 @@
+header{
+    background-color: #BBBB;
+    padding: 20px;
+}
+
+.caja{
+   width: 940px;
+   position: relative;
+   margin: 0 auto;
+  
+}
+
+nav{
+    position: absolute;
+    top: 110px;
+    right: 0;
+}
+
+nav li{
+    display: inline;
+    margin: 0 0 0 15px;
+}
+
+nav a{
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #000000;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+nav a:hover{
+    color: #c78c19;
+    text-decoration: underline;
+}
+
+footer{
+    background: url(imagenes/bg.jpg);
+    text-align: center;
+    padding: 40px;
+}
+
+.copyrigth{
+    color: #ffffff;
+    font-size: 13px;
+    margin: 20px;
+}
+
+.logo{
+    width: 200px;
+    height: 200px;
+}
